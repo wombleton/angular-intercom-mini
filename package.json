@@ -1,0 +1,25 @@
+{
+  "name": "angular-intercom-mini",
+  "version": "0.4.0",
+  "description": "A super simple Angular.js wrapper for Intercom.io",
+  "main": "intercom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wombleton/angular-intercom-mini.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "intercom.io",
+    "intercom"
+  ],
+  "author": "Maximiliano Perez Coto <maxiperezc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wombleton/angular-intercom-mini/issues"
+  },
+  "homepage": "https://github.com/wombleton/angular-intercom-mini#readme"
+}
